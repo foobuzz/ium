@@ -4,8 +4,8 @@ Invisible Unicode Messages
 
 ## Usage
 
-The program works by copying invisible text to the clipboard. You can then paste the message anywhere you want to.
-​‍‍​‍​​​​‍‍​​‍​‍​‍‍​‍‍​​​‍‍​‍‍​​​‍‍​‍‍‍‍​​‍​‍‍​​​​‍​​​​​​‍‍‍​‍‍‍​‍‍​‍‍‍‍​‍‍‍​​‍​​‍‍​‍‍​​​‍‍​​‍​​​​‍​​​​‍
+The program works by copying invisible text to the clipboard. You can then paste the message anywhere you want to:
+
 	python ium.py --text "hello, world!"
 	104 invisible characters copied to the clipboard.
 
