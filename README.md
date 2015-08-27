@@ -1,7 +1,6 @@
 Invisible Unicode Messages
 ==========================
 
-
 ## Usage
 
 The program, which runs on Python 3, works by copying invisible text to the clipboard. You can then paste the message anywhere you want to:
